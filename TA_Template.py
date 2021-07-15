@@ -1,4 +1,4 @@
-#Acitivity 1
+#Activity 1
 #Import pygame
 
 #Initialize pygame
